@@ -1,0 +1,8 @@
+/* Custom styles - override package defaults here */
+
+:root {
+  --color-primary: #1e3a8a;
+  --color-accent: #d4af37;
+}
+
+/* Add your custom styles below */
